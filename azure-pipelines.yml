@@ -6,4 +6,4 @@ pool:
 steps:
 - task: gitmirror@0//You can install this task in marketplace
   inputs:
-    GitRepoUrl: 'https://{PAT}@dev.azure.com/{ProjektMartl}/{Projekt Martl and Co. KG}/_git/{Fronted}.git'
+    GitRepoUrl: 'https://github.com/EkremKanuric/Fronted.git'
